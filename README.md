@@ -43,9 +43,7 @@ alt="listen to webhooks" src="https://cloud.githubusercontent.com/assets/273188/
 - You should be able to see slack updates now
 
 # Contributors
-- Sarah Xu [@sarahxxu](https://github.com/sarahxxu).
-- Arjun Raj [@rajarju](https://github.com/rajarju).
-- Hiren Shah [@hirenoble](https://github.com/hirenoble).
+- Adobe I/O Team
 
 # Lincense
 [MIT](LICENSE)
